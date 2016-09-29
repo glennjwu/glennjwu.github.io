@@ -1,0 +1,21 @@
+h1 {
+	text-align: center;
+	color: #996633;
+}
+
+p {
+	text-align: center;
+	color: #996633;
+}
+
+a:hover {
+	color: #000000;
+}
+
+a {
+	color: #996633;
+}
+
+body {
+	font-family: century gothic;
+}
